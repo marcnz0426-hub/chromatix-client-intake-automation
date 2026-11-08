@@ -1,0 +1,12 @@
+﻿{
+  "test_case_1_missing_prerequisites": {
+    "client_name": "Sarah Jenkins",
+    "client_email": "sarah@melbourneretail.com.au",
+    "inquiry_text": "Hi team, we currently run a brick-and-mortar clothing boutique in South Yarra and need to build a modern online store. We want customers to be able to browse catalog items, pay with Stripe or Afterpay, and track inventory. We don't have our brand guidelines or high-res logo ready yet because our designer is finalizing them next week. Hoping to launch before Christmas."
+  },
+  "test_case_2_complete_lead": {
+    "client_name": "David Ross",
+    "client_email": "david@rossconsulting.com.au",
+    "inquiry_text": "Good morning. We need a 7-page corporate B2B website on WordPress. We have our brand guidelines, vector logos, and finalized copy ready in Google Drive. We need a booking calendar integration (Calendly) and HubSpot form sync for lead generation. Our budget is around $8k AUD and we need delivery by November 30."
+  }
+}
