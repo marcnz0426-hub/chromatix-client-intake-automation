@@ -80,4 +80,3 @@ During QA, an LLM edge case was identified where operational credentials (hostin
 - **Troubleshooting & QA Report:** [`DEBUG_CASE_STUDIES.md`](./DEBUG_CASE_STUDIES.md) (Complete failure mode analysis with 19 audit screenshots)
 - **Automated Python Webhook Trigger:** [`send_test_webhook.py`](./send_test_webhook.py)
 - **Production Scoping Prompt:** [`system_prompt.txt`](./system_prompt.txt)
-- **2-Minute Loom Video Walkthrough:** *[Add Loom Link Here]* (Script in [`loom_video_script.md`](./loom_video_script.md))
